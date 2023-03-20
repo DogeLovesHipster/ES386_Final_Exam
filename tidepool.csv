@@ -1,0 +1,61 @@
+year,plot_ID,study_site,disturbance,Start_spp_div,End_spp_div,percent_recovery,max_ISST
+2021,1,Site1,cleared ,12,12,100.0,13
+2021,2,Site1,cleared ,15,13,86.7,13
+2021,3,Site1,cleared ,11,8,72.7,13
+2021,4,Site1,cleared ,9,9,100.0,13
+2021,5,Site1,cleared ,8,7,87.5,13
+2021,6,Site1,control,10,10,100.0,13
+2021,7,Site1,control,12,11,91.7,13
+2021,8,Site1,control,13,13,100.0,13
+2021,9,Site1,control,11,11,100.0,13
+2021,10,Site1,control,12,12,100.0,13
+2021,11,Site2,cleared ,10,7,70.0,14
+2021,12,Site2,cleared ,9,7,77.8,14
+2021,13,Site2,cleared ,11,10,90.9,14
+2021,14,Site2,cleared ,13,13,100.0,14
+2021,15,Site2,cleared ,14,13,92.9,14
+2021,16,Site2,control,13,12,92.3,14
+2021,17,Site2,control,16,15,93.8,14
+2021,18,Site2,control,14,13,92.9,14
+2021,19,Site2,control,12,11,91.7,14
+2021,20,Site2,control,13,13,100.0,14
+2021,21,Site3,cleared ,11,9,81.8,16
+2021,22,Site3,cleared ,14,13,92.9,16
+2021,23,Site3,cleared ,10,10,100.0,16
+2021,24,Site3,cleared ,8,5,62.5,16
+2021,25,Site3,cleared ,7,5,71.4,16
+2021,26,Site3,control,9,8,88.9,16
+2021,27,Site3,control,11,12,109.1,16
+2021,28,Site3,control,12,12,100.0,16
+2021,29,Site3,control,10,10,100.0,16
+2021,30,Site3,control,11,11,100.0,16
+2022,1,Site1,cleared ,12,9,75.0,17
+2022,2,Site1,cleared ,13,10,76.9,17
+2022,3,Site1,cleared ,8,5,62.5,17
+2022,4,Site1,cleared ,9,6,66.7,17
+2022,5,Site1,cleared ,7,5,71.4,17
+2022,6,Site1,control,10,9,90.0,17
+2022,7,Site1,control,11,10,90.9,17
+2022,8,Site1,control,13,12,92.3,17
+2022,9,Site1,control,11,11,100.0,17
+2022,10,Site1,control,12,11,91.7,17
+2022,11,Site2,cleared ,7,6,85.7,15
+2022,12,Site2,cleared ,7,6,85.7,15
+2022,13,Site2,cleared ,10,8,80.0,15
+2022,14,Site2,cleared ,13,11,84.6,15
+2022,15,Site2,cleared ,13,11,84.6,15
+2022,16,Site2,control,12,11,91.7,15
+2022,17,Site2,control,15,15,100.0,15
+2022,18,Site2,control,13,13,100.0,15
+2022,19,Site2,control,11,10,90.9,15
+2022,20,Site2,control,13,12,92.3,15
+2022,21,Site3,cleared ,9,7,77.8,16
+2022,22,Site3,cleared ,13,10,76.9,16
+2022,23,Site3,cleared ,10,8,80.0,16
+2022,24,Site3,cleared ,5,2,40.0,16
+2022,25,Site3,cleared ,5,3,60.0,16
+2022,26,Site3,control,8,7,87.5,16
+2022,27,Site3,control,12,11,91.7,16
+2022,28,Site3,control,12,11,91.7,16
+2022,29,Site3,control,10,10,100.0,16
+2022,30,Site3,control,11,10,90.9,16
